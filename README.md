@@ -30,10 +30,10 @@ cd code
 
 ### 4. Run the Project
 
-Run the Python script to start the classification model. Replace `your_script.py` with the actual script filename:
+Run the Python script to start the classification model:
 
 ```bash
-python your_script.py
+python main.py
 ```
 
 ## Project Structure
