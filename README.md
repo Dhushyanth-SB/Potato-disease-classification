@@ -30,7 +30,7 @@ cd code
 
 ### 4. Run the Project
 
-Run the Python script to start the classification model:
+Run the Python script to train the classification model:
 
 ```bash
 python main.py
